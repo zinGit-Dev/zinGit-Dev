@@ -1,11 +1,15 @@
 ### Hi there 💟
 <img src="https://images.unsplash.com/photo-1576363399252-36302b835c28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" alt="turtle">
-#I’m currently learning ...
- dev fullstack Bootcamp in The bridge School.  
-#I’m currently working on ...
+
+# I’m currently learning ...
+
+ Dev fullstack Bootcamp in The bridge School.  
+ - - -
+
+## I’m currently working on ...
 my personal page in:  
-*Html
-*CSS
+* Html
+* CSS
 
 
 <!--
