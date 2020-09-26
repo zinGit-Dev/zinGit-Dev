@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 💟
+🌱 I’m currently learning  dev fullstack Bootcamp in The bridge School.
+<img src="https://images.unsplash.com/photo-1576363399252-36302b835c28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" alt="turtle">
 <!--
 **zinGit-Dev/zinGit-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
