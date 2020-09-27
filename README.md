@@ -1,7 +1,7 @@
 ### Hi there 💟
-My name is Zineb, I studied :
-Bachelor's Degree in Translation & Interpretation at Granada University.
-&
+My name is Zineb, I studied :  
+Bachelor's Degree in Translation & Interpretation at Granada University.  
+&  
 Master's Degree in Teaching foreign language at Cantabria University
 
 # Languages:
