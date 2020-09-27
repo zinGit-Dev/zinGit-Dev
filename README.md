@@ -1,5 +1,13 @@
 ### Hi there 💟
-<img src="https://images.unsplash.com/photo-1576363399252-36302b835c28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60" alt="turtle">
+My name is Zineb, I have Bachelor's Degree in Translation & Interpretation from Granada University.
+and Master's Degree in Teaching foreign language at Cantabria University
+#Languages:
+Spanish
+French
+Arabic
+English
+Italian
+
 
 # I’m currently learning ...
 
