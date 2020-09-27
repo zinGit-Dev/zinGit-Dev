@@ -4,11 +4,11 @@ and Master's Degree in Teaching foreign language at Cantabria University
 
 # Languages:
 
-Spanish
-French
-Arabic
-English
-Italian
+Spanish  
+French  
+Arabic  
+English  
+Italian  
 
 
 # I’m currently learning ...
