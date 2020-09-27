@@ -1,7 +1,9 @@
 ### Hi there 💟
 My name is Zineb, I have Bachelor's Degree in Translation & Interpretation from Granada University.
 and Master's Degree in Teaching foreign language at Cantabria University
-#Languages:
+
+# Languages:
+
 Spanish
 French
 Arabic
