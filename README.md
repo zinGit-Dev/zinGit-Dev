@@ -22,6 +22,7 @@ Italian
 my personal page in:  
 * Html
 * CSS
+* Javascript
 
 
 <!--
