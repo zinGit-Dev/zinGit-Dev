@@ -23,6 +23,9 @@ my personal page in:
 * Html
 * CSS
 * Javascript
+* nodejs
+*express
+*mongoDB
 
 
 <!--
